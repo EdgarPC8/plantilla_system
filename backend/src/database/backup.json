@@ -1,0 +1,30 @@
+{
+  "Roles": [
+    {
+      "id": 1,
+      "name": "Programador"
+    }
+  ],
+  "Users": [
+    {
+      "id": 1,
+      "ci": "1104661598",
+      "firstName": "Edgar",
+      "secondName": "Patricio",
+      "firstLastName": "Torres",
+      "secondLastName": "Condolo",
+      "birthday": "2000-07-05",
+      "gender": "M",
+      "photo": null
+    }
+  ],
+  "Account": [
+    {
+      "id": 1,
+      "username": "1104661598",
+      "password": "$2b$10$/zTVaMzSX4IN7IZwHMT6N.65kCTb5srVCQBRzCZg9MYAJS9mAxD8.",
+      "userId": 1,
+      "rolId": 1
+    }
+  ]
+}
